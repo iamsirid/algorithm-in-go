@@ -1,4 +1,4 @@
-module github.com/iamsirid/algorithm-in-go
+module github.com/iamsirid/algorithm-in-go/sorting
 
 go 1.19
 
